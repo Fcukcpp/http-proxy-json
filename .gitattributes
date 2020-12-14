@@ -1,8 +1,1 @@
 *.json linguist-language=python
-*.json linguist-language=c#
-*.json linguist-language=php
-*.json linguist-language=javascript
-*.json linguist-language=Qt
-*.json linguist-language=cpp
-*.json linguist-language=kotlin
-*.json linguist-language=java
